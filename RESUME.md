@@ -1,61 +1,43 @@
 # Professional Summary
 
-Software engineer with experience creating rapid prototypes on agile teams and improving developer experiences. Strong experience with a variety of frontend and backend systems as well as infrastructure tooling.
+Software engineer with over four years of experience creating rapid prototypes on agile teams and improving developer experiences. Strong experience with a variety of frontend and backend frameworks and languages as well as infrastructure tooling.
 
 # Work History
 
-## Karat IVE
+## Interview Engineer @ Karat
 
 - Conducted over 100 technical interviews for software positions at various companies including Walmart and Indeed.
 - Led candidates through technical questions, project discussions, and coding exercises.
 - Summarized interview results in detailed reports and provided professional opinion on fit for the role.
 
-## FordLabs Software Engineer
+## Senior Backend Developer @ Shopify
+Served as a senior backend developer, working primarily on improving stability and usability within the products + pricing domain of Shopify while delivering features which helped our merchants better promote their products.
+
+- Led the research, design, and implementation of a new feature which would allow merchants to restrict discounts to a subset of customers based on a given set of customer criteria.
+- Coordinated with our support team and our merchants to diagnose and fix many high severity issues.
+- Improved the internal and external developer experience by introducing the Sorbet type system to more areas of our codebase and improving the documentation for our public APIs.
+
+
+## Fullstack Software Engineer @ FordLabs
 
 Full-stack engineer working on small, balanced teams to quickly validate or invalidate potential products from all across Ford.
 
-### Find Your Ford
-
-- Quickly built and measured the impact of new features like location-based search results from participating dealers to validate the viability of a Carvana-like web service for Ford.
-- Scaled the frontend by transitioning the codebase from pure JavaScript with templating (Thymeleaf) to Angular.
-- Drove enough sales through the product for it to become a fully-funded Ford product.
-
-### dev/central/station
-
-- Built customized project generators to create repositories complete with CI/CD pipelines and spaces to deploy apps for teams that needed to get off the ground fast.
-- Orchestrated the automatic provisioning of CI/CD pipelines for teams in OpenShift.
-- Reduced time-to-production for iOS products at Ford from over a month to five minutes.
-
-### help.ford.com
-
-- Quickly built an alternative customer support web experience for external Ford customers to validate hypotheses around how to improve the user experience of those looking for help with their car.
-- Provided thousands of customers a day with a support experience that was 50+ NPS points higher than the existing experience.
-- Built completely new experiences for Ford customers to determine if they had an update available for their car's infotainment system and to find accurate information about recalls and warranties for their car.
-- Architected and implemented a CMS system for new content to be created quickly by non-engineers using Netlify CMS and Gatsby.
-
-### Text For Service
-
-- Developed a lean prototype that allowed users to create service appointments at Ford dealerships via text, validating the need for such a service.
-- Architected and developed a backend system to orchestrate the communication between a texting service (Twilio) and an NLP dialog system (Dialogflow).
-
-### Sentinel (Canopy)
-
-- Quickly iterated on several new features for a mobile app, including custom alerting preferences and command-and-control capabilities, during the product's first public trial period.
-- Improved the CI/CD process for both the iOS and Android versions of the app using scripting and fastlane.
-
-### Go Team
-
-- Maintained and improved internal monitoring, code quality, and CI/CD tooling for all teams at FordLabs.
-- Identified the need for an internal feature flagging system for FordLabs developers and led its creation.
-- Consulted with other teams at FordLabs to reduce their path-to-production times and develop solutions for their unique infrastructure needs.
-- Consulted with the team responsible for managing the process of provisioning new infrastructure on GCP to eliminate the need for custom training and support and drive towards a more industry-standard approach.
-- Created a backend system to manage and approve Slack app installation requests for the entirety of Ford.
-
-### Additional Efforts
-
-- Won awards at multiple internal hackathons by creating a variety of different internal tools such as a PTO tracking integration for Slack and a community Discord soundboard.
-- Delivered numerous presentations to audiences at FordLabs and greater Ford on a variety of topics including orchestrating dynamic pre-prod environments and getting the most of your IDE.
-- Developed a tool for automatically managing proxy settings that has been widely adopted and contributed to by many developers across Ford.
+- Served as one of the two engineers on our internal developer experience team, accomplishing the following:
+  - Maintained and improved internal monitoring, code quality, and CI/CD tooling for the 6+ development teams at FordLabs.
+  - Identified the need for a feature flagging system for FordLabs developers and orchestrated its creation, allowing teams to easily A/B test new features in production.
+  - Consulted with other teams at FordLabs to reduce their path-to-production times and develop solutions for their unique infrastructure needs.
+  - Consulted with Ford’s internal GCP infrastructure team to eliminate the need for custom training and support and drive towards a more industry-standard approach.
+  - Created a backend system to manage and approve Slack app installation requests for all of Ford, reducing approvals down from 2-3 weeks to less than 5 minutes in most cases.
+- Developed several features for one of our team’s mobile apps, including custom alerting preferences and command-and-control capabilities, during the product's first public trial period.
+- Developed a lean prototype that allowed users to create service appointments at Ford dealerships via text, validating the need for such a service by architecting and developing a backend system to orchestrate the communication between a texting service (Twilio) and an NLP dialog system (Dialogflow).
+- Built an entirely new alternative customer support web experience for external Ford customers in three months to validate hypotheses related to improving the user experience of those looking for help with their car.
+  - Provided thousands of customers a day with a support experience that had an NPS score which was 60+ higher than the existing experience.
+  - Built completely new experiences for Ford customers to determine if they had an update available for their car's infotainment system and to find accurate information about recalls and warranties for their vehicle.
+  - Designed and implemented a CMS system to enable easy content creation by non-engineers.
+  - Built customized project generators to create new internal code repositories with out-of-the-box CI/CD pipelines and spaces to deploy apps for teams that needed to get off the ground fast. Reduced the time it took to push new iOS products to production at Ford from over a month to five minutes.
+- Rapidly iterated on a unified e-commerce platform for used Ford vehicles, eventually driving enough sales for the application to become a fully-funded Ford internal product.
+- Won awards at multiple internal hackathons by creating a variety of different internal tools such as a PTO tracking integration for Slack and a community Discord soundboard, both of which were used widely at FordLabs.
+- Developed a tool for automatically managing proxy settings, which was a small but significant problem for all Ford developers. It has been widely adopted and contributed to by many developers across Ford.
 
 # Technologies
 
@@ -65,10 +47,12 @@ Full-stack engineer working on small, balanced teams to quickly validate or inva
 - JavaScript
 - TypeScript
 - Python
+- Ruby
 
 ## Libraries and Frameworks
 
 - Spring Boot
+- Rails
 - React
 - Gatsby
 - React Native
